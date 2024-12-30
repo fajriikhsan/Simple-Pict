@@ -1,0 +1,21 @@
+.action-buttons .btn {
+    margin-right: 5px;
+}
+
+.table-responsive {
+    margin-top: 20px;
+}
+
+.search-section {
+    margin-bottom: 20px;
+}
+
+.user-status {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 5px;
+}
+
+
